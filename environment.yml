@@ -1,0 +1,9 @@
+name: individual2
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - pandas=2.3.3
+  - scikit-learn=1.7.2
+  - conda-lock=3.0.4
+prefix: /home/tiantong/miniforge3/envs/individual2
